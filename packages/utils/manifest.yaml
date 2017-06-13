@@ -1,0 +1,4 @@
+packages:
+  - utils:
+      actions:
+        location: cat.js
