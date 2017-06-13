@@ -1,4 +1,5 @@
 packages:
   utils:
     actions:
-      location: cat.js
+      cat:
+        location: cat.js
